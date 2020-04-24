@@ -1,5 +1,14 @@
-This project was a refresher in:
- - vanilla JS
+---
+layout: post
+title: "Covid-19 Cases Project"
+date: 2020-04-20 17:00:00 +0100
+categories: programming
+---
+
+<a href="https://github.com/Ross117/covid-19-cases-by-english-county">Github repo</a>
+
+This project acted for me as a refresher in:
+ - Vanilla JS
  - HTML
  - CSS
  - APIs
