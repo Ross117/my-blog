@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Intro"
-date:   2019-10-02 18:55:05 +0100
+title: "Introduction: What's this blog about?"
+date:  2019-10-02 18:55:05 +0100
 categories: intro
 ---
 Work in progress.
+
+<!-- What is this blog about? What's its purpose? -->
